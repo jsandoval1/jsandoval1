@@ -56,6 +56,8 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 </div>
 
+---
+
 <div align="center">
 
 ### About Me
@@ -74,12 +76,11 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 </div>
 
+---
+
 <div align="center">
 
 ### 🧪 Experiments from My Coding Lab 🧪
-<!-- <p><a href="link-to-project">Project 1</a>: Brief description of the project.</p>
-<p><a href="link-to-project">Project 2</a>: Brief description of the project.</p>
-<p><a href="link-to-project">Project 3</a>: Brief description of the project.</p> -->
 **🚧 Projects are currently under construction... Please wait. 🚧**
 
 <div style="display: flex; justify-content: space-around;">
@@ -92,9 +93,12 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 </div>
 
+---
+
+
 <div align="center">
 
-## 📊 My Coding Journey by the Numbers 📊
+### 📊 My Coding Journey by the Numbers 📊
 
 <table>
     <tr>
