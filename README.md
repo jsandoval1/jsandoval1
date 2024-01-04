@@ -1,23 +1,13 @@
 <div align="center">
 
-# 👋 Hey, you found me! Welcome to John's profile! 👋
+# 🎨 Explore the Art of Coding with John! 🎨
 
 </div>
 
 ```javascript
-// Here's a little JavaScript to get you started!
-function generateGreeting() {
-  const greetings = [
-    "Hello, welcome to my profile!",
-    "Hi there, glad you found me!",
-    "Hey, nice to see you here!",
-    "Welcome, enjoy exploring my projects!",
-  ];
-  const index = Math.floor(Math.random() * greetings.length);
-  return greetings[index];
-}
-
-console.log(generateGreeting());
+// Welcome to my profile! Here's a random greeting function to get you started.
+const greetings = ["Hello!", "Hi!", "Hey!", "Welcome!"];
+console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 ```
 
 <div align="center">
@@ -58,6 +48,7 @@ console.log(generateGreeting());
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+
 <div align="center">
 
 <table>
