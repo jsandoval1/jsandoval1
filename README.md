@@ -29,13 +29,20 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 <div align="center">
 
-## 🛠️ Frameworks and Databases I use 🛠️
+## 🛠️ Frameworks I use 🛠️
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Java Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+
+<div align="center">
+
+## 🗄️ Databases I use 🗄️
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -56,13 +63,6 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 <div align="center">
 
-<table>
-    <tr>
-        <td>
-            <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" height="200">
-        </td>
-        <td align="left" valign="top">
-
 ### About Me
 
 👨‍💻 As a software engineer with a background in logistics management, I bring a unique perspective to the tech industry. My passion for improving systems, safety, and productivity drives my exploration of new technologies and programming languages. 🚀
@@ -77,16 +77,12 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 [Twitter](https://twitter.com/yourusername) |
 [GitHub](https://github.com/yourusername) |
 [Portfolio](https://yourportfolio.com)
-</td>
-</tr>
-
-</table>
 
 </div>
 
 <div align="center">
 
-## 🧪 Experiments from My Coding Lab 🧪
+### 🧪 Experiments from My Coding Lab 🧪
 <!-- <p><a href="link-to-project">Project 1</a>: Brief description of the project.</p>
 <p><a href="link-to-project">Project 2</a>: Brief description of the project.</p>
 <p><a href="link-to-project">Project 3</a>: Brief description of the project.</p> -->
@@ -108,18 +104,18 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 <table>
     <tr>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://github-readme-stats.vercel.app/api?username=jsandoval1&show_icons=true&theme=radical" alt="Johns GitHub stats">
         </td>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsandoval1&theme=vue-dark&hide_border=true" alt="John's GitHub Streak">
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsandoval1&theme=radical" alt="John's Top Languages">
         </td>
-        <td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="https://github-contribution-stats.vercel.app/api/?username=jsandoval1" alt="John's Contribution Stats">
         </td>
     </tr>
