@@ -1,11 +1,6 @@
 <div align="center">
 
 # 🎨 Explore the Art of Coding with John! 🎨
-📫 How to reach me:  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcsandoval978@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1john-sandoval/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsandoval1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
@@ -71,12 +66,11 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 🌱 I'm always ready for new challenges and eager to contribute to meaningful projects. Let's connect if you're interested in collaboration or discussing tech! 🤝
 
-📫 How to reach me:
-[Email](mailto:jcsandoval978@.com) |
-[LinkedIn](https://www.linkedin.com/in/1john-sandoval/) |
-[Twitter](https://twitter.com/yourusername) |
-[GitHub](https://github.com/yourusername) |
-[Portfolio](https://yourportfolio.com)
+##### 📫 How to reach me:  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcsandoval978@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1john-sandoval/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsandoval1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
