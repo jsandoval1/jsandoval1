@@ -66,7 +66,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=jsandoval1&show_icons=true&theme=radical" alt="Johns GitHub stats">
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsandova1&theme=vue-dark&hide_border=true" alt="John's GitHub Streak">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsandoval1&theme=vue-dark&hide_border=true" alt="John's GitHub Streak">
         </td>
     </tr>
 </table>
