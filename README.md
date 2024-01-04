@@ -2,10 +2,20 @@
 
 # 👋 Hey, you found me! Welcome to John's profile! 👋
 
-Here's a little JavaScript greeting for you:
 
 ```javascript
-console.log("Hello, welcome to my profile!");
+function generateGreeting() {
+    const greetings = [
+        "Hello, welcome to my profile!",
+        "Hi there, glad you found me!",
+        "Hey, nice to see you here!",
+        "Welcome, enjoy exploring my projects!"
+    ];
+    const index = Math.floor(Math.random() * greetings.length);
+    return greetings[index];
+}
+
+console.log(generateGreeting());
 ```
 
 </div>
