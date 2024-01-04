@@ -2,30 +2,22 @@
 
 # 👋 Hey, you found me! Welcome to John's profile! 👋
 
-### About Me
-👨‍💻 As a software engineer with a background in logistics management, I bring a unique perspective to the tech industry. My passion for improving systems, safety, and productivity drives my exploration of new technologies and programming languages. 🚀
+Here's a little JavaScript greeting for you:
 
-🔭 My journey in software engineering has been fueled by my curiosity and my desire to leverage technology to solve complex problems. I've worked on a variety of projects, each offering unique challenges and opportunities for learning. 🧠
+```javascript
+console.log("Hello, welcome to my profile!");
+```
 
-🌱 I'm always ready for new challenges and eager to contribute to meaningful projects. Let's connect if you're interested in collaboration or discussing tech! 🤝
-
-📫 How to reach me: 
-[Email](mailto:jcsandoval978@.com) | 
-[LinkedIn](https://www.linkedin.com/in/1john-sandoval/) | 
-[Twitter](https://twitter.com/yourusername) | 
-[GitHub](https://github.com/yourusername) | 
-[Portfolio](https://yourportfolio.com)
 </div>
-
 
 <div align="center">
 
 ## 🚀 Languages I use 🚀
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 </div>
 
 
@@ -53,11 +45,51 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
+<div align="center">
+
+<table>
+    <tr>
+        <td>
+            <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" height="200">
+        </td>
+        <td align="left" valign="top">
+
+### About Me
+
+👨‍💻 As a software engineer with a background in logistics management, I bring a unique perspective to the tech industry. My passion for improving systems, safety, and productivity drives my exploration of new technologies and programming languages. 🚀
+
+🔭 My journey in software engineering has been fueled by my curiosity and my desire to leverage technology to solve complex problems. I've worked on a variety of projects, each offering unique challenges and opportunities for learning. 🧠
+
+🌱 I'm always ready for new challenges and eager to contribute to meaningful projects. Let's connect if you're interested in collaboration or discussing tech! 🤝
+
+📫 How to reach me:  
+[Email](mailto:jcsandoval978@.com) | 
+[LinkedIn](https://www.linkedin.com/in/1john-sandoval/) | 
+[Twitter](https://twitter.com/yourusername) | 
+[GitHub](https://github.com/yourusername) | 
+[Portfolio](https://yourportfolio.com)
+        </td>
+    </tr>
+</table>
+
+</div>
+
+<div align="center">
 
 ## 📚 Some of my recent Projects 📚
-- [Project 1](link-to-project): Brief description of the project.
-- [Project 2](link-to-project): Brief description of the project.
-- [Project 3](link-to-project): Brief description of the project.
+<!-- <p><a href="link-to-project">Project 1</a>: Brief description of the project.</p>
+<p><a href="link-to-project">Project 2</a>: Brief description of the project.</p>
+<p><a href="link-to-project">Project 3</a>: Brief description of the project.</p> -->
+
+**🚧 Projects are currently under construction... Please wait. 🚧**
+
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Loading" width="200" height="200">
+
+**🔜 Projects are coming soon. Please check back later! 🔜**
+
+</div>
+
+<div align="center">
 
 ## 📈 GitHub Stats 📈
 <table>
@@ -70,3 +102,5 @@
         </td>
     </tr>
 </table>
+</div>
+
