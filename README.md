@@ -107,14 +107,28 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
         </td>
         <td>
             <div>
-                <p><img src="https://img.shields.io/badge/Java-red" alt="Java"/><br/>I have used Java extensively in my backend development work, particularly with Spring Boot.</p>
                 <p>
-                    <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript"/><br/>
-                    I have experience in both frontend and backend development using JavaScript, including 
-                    <img src="https://img.shields.io/badge/Node.js-green?logo=node.js" alt="Node.js"/> and 
-                    <img src="https://img.shields.io/badge/React-blue?logo=react" alt="React"/>.
+                    <strong>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="20" height="20"/> Java
+                    </strong><br/>
+                    I have used Java extensively in my backend development work, particularly with 
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="20" height="20"/> Spring Boot.
                 </p>
-                <p><img src="https://img.shields.io/badge/Python-blue" alt="Python"/><br/>I have used Python for scripting, data analysis, and web development with Django and Flask.</p>
+                <p>
+                    <strong>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript
+                    </strong><br/>
+                    I have experience in both frontend and backend development using JavaScript, including 
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="20" height="20"/> Node.js and 
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20"/> React.
+                </p>
+                <p>
+                    <strong>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python
+                    </strong><br/>
+                    I have used Python for scripting, data analysis, and web development with Django and 
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="20" height="20"/> Flask.
+                </p>
             </div>
         </td>
     </tr>
