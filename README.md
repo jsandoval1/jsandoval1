@@ -74,6 +74,8 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 ### 📊 My Coding Journey by the Numbers 📊
 
+##### About My GitHub Stats
+Even though I am still young in my development journey, I have found a passion and joy in coding. I code at least 4 days a week, finding it not just a task, but an exciting adventure. I plan on continuing to grow my skills and knowledge in my free time. I am eager to break into the tech world and contribute my enthusiasm and dedication to this field.
 <table>
     <tr>
         <td style="text-align: center; vertical-align: middle;">
@@ -83,22 +85,11 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsandoval1&theme=vue-dark&hide_border=true" alt="John's GitHub Streak">
         </td>
     </tr>
-    <tr>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsandoval1&theme=radical" alt="John's Top Languages">
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://github-contribution-stats.vercel.app/api/?username=jsandoval1" alt="John's Contribution Stats">
-        </td>
-    </tr>
 </table>
 <br/>
-</div>
 
-<!-- Section for about my coding languages -->
-<div align="center">
 
-### My most used languages
+#### My most used languages
 
 <table>
     <tr>
@@ -133,6 +124,8 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
         </td>
     </tr>
 </table>
+
+</div>
 
 
 
