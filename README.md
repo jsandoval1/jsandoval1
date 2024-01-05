@@ -57,9 +57,9 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 **🚧 Projects are currently under construction... Please wait. 🚧**
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Loading" width="200" height="200">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Loading" width="200" height="200">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Loading" width="200" height="200">
+<img src="https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif" alt="Loading" width="200" height="200">
+<img src="https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif" alt="Loading" width="200" height="200">
+<img src="https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif" alt="Loading" width="200" height="200">
 </div>
 
 **🔜 Projects are coming soon. Please check back later! 🔜**
@@ -74,23 +74,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 ### 📊 My Coding Journey by the Numbers 📊
 
-##### About My GitHub Stats
-Even though I am still young in my development journey, I have found a passion and joy in coding. I code at least 4 days a week, finding it not just a task, but an exciting adventure. I plan on continuing to grow my skills and knowledge in my free time. I am eager to break into the tech world and contribute my enthusiasm and dedication to this field.
-<table>
-    <tr>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://github-readme-stats.vercel.app/api?username=jsandoval1&show_icons=true&theme=radical" alt="Johns GitHub stats">
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsandoval1&theme=vue-dark&hide_border=true" alt="John's GitHub Streak">
-        </td>
-    </tr>
-</table>
-<br/>
-
-
 #### My most used languages
-
 <table>
     <tr>
         <td style="text-align: center; vertical-align: middle;">
@@ -124,6 +108,20 @@ Even though I am still young in my development journey, I have found a passion a
         </td>
     </tr>
 </table>
+
+##### About My GitHub Stats
+Even though I am still young in my development journey, I have found a passion and joy in coding. I code at least 4 days a week, finding it not just a task, but an exciting adventure. I plan on continuing to grow my skills and knowledge in my free time. I am eager to break into the tech world and contribute my enthusiasm and dedication to this field.
+<table>
+    <tr>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://github-readme-stats.vercel.app/api?username=jsandoval1&show_icons=true&theme=radical" alt="Johns GitHub stats">
+        </td>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsandoval1&theme=vue-dark&hide_border=true" alt="John's GitHub Streak">
+        </td>
+    </tr>
+</table>
+<br/>
 
 </div>
 
