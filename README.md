@@ -74,6 +74,8 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 ### 📊 My Coding Journey by the Numbers 📊
 
+<div align="center">
+
 <table>
     <tr>
         <td style="text-align: center; vertical-align: middle;">
@@ -92,6 +94,8 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
         </td>
     </tr>
 </table>
+
+</div>
 <br/>
 </div>
 
