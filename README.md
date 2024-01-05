@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 Explore the Art of Coding with John! 🎨
+# 💻 Dive into the Digital Depths with John! 💻
 
 </div>
 
@@ -14,7 +14,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 ## 🚀 Languages I use 🚀
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +24,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 <div align="center">
 
-## 🛠️ Frameworks I use 🛠️
+### 🛠️ Frameworks I use 🛠️
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Java Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -36,7 +36,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 <div align="center">
 
-## 🗄️ Databases I use 🗄️
+### 🗄️ Databases I use 🗄️
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,7 +45,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 <div align="center">
 
-## 🧰 Tools I use 🧰
+### 🧰 Tools I use 🧰
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=api&logoColor=white)
@@ -68,7 +68,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 🌱 I'm always ready for new challenges and eager to contribute to meaningful projects. Let's connect if you're interested in collaboration or discussing tech! 🤝
 
-##### 📫 How to reach me:  
+#### 📫 How to reach me:  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcsandoval978@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1john-sandoval/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsandoval1)
