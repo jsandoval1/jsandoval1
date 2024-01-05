@@ -83,9 +83,47 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsandoval1&theme=vue-dark&hide_border=true" alt="John's GitHub Streak">
         </td>
     </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsandoval1&theme=radical" alt="John's Top Languages">
+        </td>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://github-contribution-stats.vercel.app/api/?username=jsandoval1" alt="John's Contribution Stats">
+        </td>
+    </tr>
 </table>
 <br/>
 </div>
+
+<!-- Section for about my coding languages -->
+<div align="center">
+
+### My most used languages
+
+<table>
+    <tr>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsandoval1&theme=radical" alt="John's Top Languages"/>
+        </td>
+        <td>
+            <div>
+                <p><img src="https://img.shields.io/badge/Java-red" alt="Java"/><br/>I have used Java extensively in my backend development work, particularly with Spring Boot.</p>
+                <p>
+                    <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript"/><br/>
+                    I have experience in both frontend and backend development using JavaScript, including 
+                    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> and 
+                    <img src="https://img.shields.io/badge/React-blue?logo=react" alt="React"/>.
+                </p>
+                <p><img src="https://img.shields.io/badge/Python-blue" alt="Python"/><br/>I have used Python for scripting, data analysis, and web development with Django and Flask.</p>
+            </div>
+        </td>
+    </tr>
+</table>
+
+
+
+
+
 
 <!-- *Alternate gifs to swap out when wanted -->
 <!--
