@@ -74,8 +74,6 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 ### 📊 My Coding Journey by the Numbers 📊
 
-<div align="center">
-
 <table>
     <tr>
         <td style="text-align: center; vertical-align: middle;">
@@ -85,17 +83,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsandoval1&theme=vue-dark&hide_border=true" alt="John's GitHub Streak">
         </td>
     </tr>
-    <tr>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsandoval1&theme=radical" alt="John's Top Languages">
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://github-contribution-stats.vercel.app/api/?username=jsandoval1" alt="John's Contribution Stats">
-        </td>
-    </tr>
 </table>
-
-</div>
 <br/>
 </div>
 
