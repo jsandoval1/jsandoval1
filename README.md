@@ -111,7 +111,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
                 <p>
                     <img src="https://img.shields.io/badge/JavaScript-yellow" alt="JavaScript"/><br/>
                     I have experience in both frontend and backend development using JavaScript, including 
-                    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> and 
+                    <img src="https://img.shields.io/badge/Node.js-green?logo=node.js" alt="Node.js"/> and 
                     <img src="https://img.shields.io/badge/React-blue?logo=react" alt="React"/>.
                 </p>
                 <p><img src="https://img.shields.io/badge/Python-blue" alt="Python"/><br/>I have used Python for scripting, data analysis, and web development with Django and Flask.</p>
