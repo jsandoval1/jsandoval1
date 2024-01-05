@@ -103,7 +103,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 <table>
     <tr>
         <td style="text-align: center; vertical-align: middle;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsandoval1&theme=radical" alt="John's Top Languages"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsandoval1&theme=radical" alt="John's Top Languages" width="400"/>
         </td>
         <td>
             <div>
