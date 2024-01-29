@@ -60,9 +60,8 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 A social platform where users can create, like and comment on tasks. This project was built using the Spring Boot framework and MySQL. It is deployed on AWS using an Ubuntu EC2 instance and an RDS database. You can [visit the live site](http://letsdoit-app.com/) or [view the repository on GitHub](https://github.com/jsandoval1/LetsDoItApp) for more details.
 
 **🔜 More projects are coming soon. Please check back later! 🔜**
-<div style="display: flex; justify-content: space-around;">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" height="200">
-
+<div style="display: flex; justify-content: center;">
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 </div>
 
 
