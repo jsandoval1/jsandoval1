@@ -54,15 +54,16 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 ### 🧪 Experiments from My Coding Lab 🧪
 
-**🚧 Projects are currently under construction... Please wait. 🚧**
 
+<img src="assets/LetsDoItRectangle.png" alt="Let's Do It" width="500">
+
+A social platform where users can create, like and comment on tasks. This project was built using the Spring Boot framework and MySQL. It is deployed on AWS using an Ubuntu EC2 instance and an RDS database. You can [visit the live site](http://letsdoit-app.com/) or [view the repository on GitHub](https://github.com/jsandoval1/LetsDoItApp) for more details.
+
+**🔜 More projects are coming soon. Please check back later! 🔜**
 <div style="display: flex; justify-content: space-around;">
-<img src="https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif" alt="Loading" width="200" height="200">
-<img src="https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif" alt="Loading" width="200" height="200">
 <img src="https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif" alt="Loading" width="200" height="200">
 </div>
 
-**🔜 Projects are coming soon. Please check back later! 🔜**
 
 <br/>
 </div>
