@@ -61,7 +61,8 @@ A social platform where users can create, like and comment on tasks. This projec
 
 **🔜 More projects are coming soon. Please check back later! 🔜**
 <div style="display: flex; justify-content: space-around;">
-<img src="https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif" alt="Loading" width="200" height="200">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" height="200">
+
 </div>
 
 
@@ -144,6 +145,9 @@ Octocat bubbly:
 
 Blue/gray man coding:
 <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="300" height="200">
+
+Loading 3D cube (white):
+<img src="https://media.giphy.com/media/feN0YJbVs0fwA/giphy.gif" alt="Loading" width="200" height="200">
 
 Eat, sleep, code, repeat:
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" height="200"> -->
