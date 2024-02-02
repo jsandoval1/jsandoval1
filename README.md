@@ -11,7 +11,11 @@
 
 ```javascript
 // Welcome to my profile! Here's a random greeting function to get you started.
-const greetings = ["Hello!", "Hey!", "Welcome!"];
+const greetings = [
+    "Hello!",
+    "Hey!",
+    "Welcome!"
+];
 console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 ```
 
