@@ -1,21 +1,22 @@
 <div align="center">
 
+# 💻 Dive into the Digital Depths with John! 💻
 
-# 💻 Dive into the Digital Depths with John! 💻  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcsandoval978@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1john-sandoval/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsandoval1)
-[![Portfolio Coming Soon](https://img.shields.io/badge/Portfolio%20(Coming%20Soon)-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](#)
+[![Portfolio Coming Soon](<https://img.shields.io/badge/Portfolio%20(Coming%20Soon)-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white>)](#)
 
 </div>
 
 ```javascript
 // Welcome to my profile! Here's a random greeting function to get you started.
-const greetings = ["Hello!", "Hi!", "Hey!", "Welcome!"];
+const greetings = ["Hello!", "Hey!", "Welcome!"];
 console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 ```
 
 ### 🚀 Languages I use 🚀
+
 ![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,6 +25,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🛠️ Frameworks I use 🛠️
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Java Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -32,6 +34,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🧰 Tools I use 🧰
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=api&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -43,6 +46,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 🗄️ Databases I use 🗄️
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -71,7 +75,6 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 ### 🧪 Experiments from My Coding Lab 🧪
 
-
 <img src="assets/LetsDoItCard.png" alt="Let's Do It" width="500" height="300">
 
 A social platform for task management, built with Spring Boot and AWS RDS (MySql), and deployed on AWS.
@@ -94,7 +97,6 @@ You can [visit the live site](http://nightflix-app.com/) or [view the repository
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
 </div>
 
-
 <br/>
 </div>
 
@@ -105,61 +107,42 @@ You can [visit the live site](http://nightflix-app.com/) or [view the repository
 
 ### 📊 My Coding Journey by the Numbers 📊
 
-#### My most used languages
-<table>
-    <tr>
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsandoval1&theme=radical" alt="John's Top Languages" width="400"/>
-        </td>
-        <td>
-            <div>
-                <p>
-                    <strong>
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="20" height="20"/> Java
-                    </strong><br/>
-                    I have used Java extensively in my backend development work, particularly with 
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="20" height="20"/> Spring Boot.
-                </p>
-                <p>
-                    <strong>
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript
-                    </strong><br/>
-                    I have experience in both frontend and backend development using JavaScript, including 
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="20" height="20"/> Node.js and 
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="20" height="20"/> React.
-                </p>
-                <p>
-                    <strong>
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python
-                    </strong><br/>
-                    I have used Python for scripting, data analysis, and web development with Django and 
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="20" height="20"/> Flask.
-                </p>
-            </div>
-        </td>
-    </tr>
-</table>
+#### Languages in My Toolbox
+
+<div style="display: flex; align-items: center;">
+    <h4 style="margin-right: 10px;">Java</h4>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="30" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="20">
+</div>
+I have used Java extensively in my backend development work, particularly with Spring Boot.
+
+<div style="display: flex; align-items: center;">
+    <h4 style="margin-right: 10px;">JavaScript</h4>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="20">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20">
+</div>
+I have experience in both frontend and backend development using JavaScript, including Node.js and React.
+
+<div style="display: flex; align-items: center;">
+    <h4 style="margin-right: 10px;">Python</h4>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="20">
+</div>
+I have used Python for scripting, data analysis, and web development with Django and Flask.
 
 ##### About My GitHub Stats
-Even though I am still young in my development journey, I have found a passion and joy in coding. I code at least 4 days a week, finding it not just a task, but an exciting adventure. I plan on continuing to grow my skills and knowledge in my free time. I am eager to break into the tech world and contribute my enthusiasm and dedication to this field.
-<table>
-    <tr>
-        <!-- <td style="text-align: center; vertical-align: middle;">
-            <img src="https://github-readme-stats.vercel.app/api?username=jsandoval1&show_icons=true&theme=radical" alt="Johns GitHub stats">
-        </td> -->
-        <td style="text-align: center; vertical-align: middle;">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsandoval1&theme=vue-dark&hide_border=true" alt="John's GitHub Streak">
-        </td>
-    </tr>
-</table>
-<br/>
 
+Even though I am still young in my development journey, I have found a passion and joy in coding. I code at least 4 days a week, finding it not just a task, but an exciting adventure. I plan on continuing to grow my skills and knowledge in my free time. I am eager to break into the tech world and contribute my enthusiasm and dedication to this field.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsandoval1&theme=vue-dark&hide_border=true" alt="John's GitHub Streak" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsandoval1&theme=tokyonight&layout=compact" alt="John's Top Languages" width="400" />
 </div>
 
+**🔥 Check out my pinned repositories below! 🔥** They showcase my most recent work and the projects I'm most proud of. **Dive in, explore, and don't hesitate to share your thoughts!**
 
-
-
-
+</div>
 
 <!-- *Alternate gifs to swap out when wanted -->
 <!--
@@ -180,3 +163,8 @@ Loading 3D cube (white):
 
 Eat, sleep, code, repeat:
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" height="200"> -->
+
+<!-- * Alternative stats -->
+<!-- <td style="text-align: center; vertical-align: middle;">
+<img src="https://github-readme-stats.vercel.app/api?username=jsandoval1&show_icons=true&theme=radical" alt="Johns GitHub stats">
+</td> -->
