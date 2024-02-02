@@ -58,13 +58,17 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 <img src="assets/LetsDoItCard.png" alt="Let's Do It" width="500" height="300">
 
-A social platform where users can create, like and comment on tasks. This project was built using the Spring Boot framework and MySQL. It is deployed on AWS using an Ubuntu EC2 instance and an RDS database. You can [visit the live site](http://letsdoit-app.com/) or [view the repository on GitHub](https://github.com/jsandoval1/LetsDoItApp) for more details.
+A social platform for task management, built with Spring Boot and AWS RDS (MySql), and deployed on AWS.
+
+You can [visit the live site](http://letsdoit-app.com/) or [view the repository on GitHub](https://github.com/jsandoval1/LetsDoItApp) for more details.
 
 ---
 
 <img src="assets/NightflixCard.png" alt="Nightflix" width="500">
 
-A movie and TV show database where users can search for and save their favorite titles. This project was built using the MERN stack and is deployed on AWS using an Elastic Beanstalk instance. You can [visit the live site](http://nightflix-app.com/) or [view the repository on GitHub](https://github.com/jsandoval1/Nightflix) for more details.
+A movie and TV show database, built with the MERN stack and deployed on AWS.
+
+You can [visit the live site](http://nightflix-app.com/) or [view the repository on GitHub](https://github.com/jsandoval1/Nightflix) for more details.
 
 ---
 
