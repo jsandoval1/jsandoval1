@@ -1,12 +1,24 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+
 <div align="center">
 
-# 💻 Dive into the Digital Depths with John! 💻
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50">&nbsp; Welcome to John! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50">&nbsp;
+</div>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcsandoval978@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1john-sandoval/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jsandoval1)
-[![Portfolio Coming Soon](<https://img.shields.io/badge/Portfolio%20(Coming%20Soon)-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white>)](#)
-
+<div style="display: flex; justify-content: center; align-items: center;">
+<a href="https://www.linkedin.com/in/1john-sandoval/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
+</a>
+<a href="https://www.discordapp.com/users/767229812921204777">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50">
+</a>
+<a href="https://www.github.com/jsandoval1">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40">
+</a>
+<a href="mailto:jcsandoval978@gmail.com">
+    <img src="https://media.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif" width="40">
+</a>
 </div>
 
 ```javascript
@@ -67,7 +79,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 <div align="center" style="margin-top: 20px;">
 
 ### About Me
-**Background:** With a background in logistics management, I bring a unique perspective to the tech industry. My experience in logistics has instilled in me a deep appreciation for efficiency and security, principles I carry into my work as a software engineer.
+**Background:** With a background in logistics management, I bring a unique perspective to the tech industry. My experience in logistics has instilled in me a deep appreciation for efficiency and security, principles I carry into my work as a software engineer. I'm currently leveraging these skills in my role as a Deployment Engineer at Amazon Robotics, where I'm part of a team that's innovating in the field of automated systems.
 
 **Continuous Learning:** In addition to my professional experience, I'm committed to continuous learning and personal growth. I regularly engage in online courses, coding challenges, and am looking to be more involved in open-source projects to stay updated with the latest industry trends and best practices.
 
@@ -149,7 +161,6 @@ Even though I am still young in my development journey, I have found a passion a
 
 </div>
 
-
 <!-- *Alternate gifs to swap out when wanted -->
 <!--
 Cartoon hacker:
@@ -157,6 +168,9 @@ Cartoon hacker:
 
 Monkey typing:
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300" height="200">
+
+Grey and Red Gears:
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="75">&nbsp;
 
 Octocat bubbly:
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" height="200">
@@ -170,7 +184,44 @@ Loading 3D cube (white):
 Eat, sleep, code, repeat:
 <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300" height="200"> -->
 
+<!-- *Cute charecters -->
+<!-- Pikachu:
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
+
+Pacman:
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+Everything all at once:
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+-->
+
 <!-- * Alternative stats -->
 <!-- <td style="text-align: center; vertical-align: middle;">
 <img src="https://github-readme-stats.vercel.app/api?username=jsandoval1&show_icons=true&theme=radical" alt="Johns GitHub stats">
 </td> -->
+
+<!-- * Animated Social Media Icons -->
+<!-- Youtube, facbeook, instagram, linkedin:
+<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="100"> 
+
+Facebook 
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
+
+Twitter:
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
+
+LinkedIn:
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+
+Instagram:
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+
+Discord:
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+
+WhatsApp:
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
+
+Tiktok:
+<img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="100"> -->
