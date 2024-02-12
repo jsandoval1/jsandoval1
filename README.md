@@ -1,4 +1,4 @@
-> 📌 Welcome to John Sandoval's GitHub profile! I'm currently harnessing my skills as a **Deployment Engineer at <span style="color: #FF9900;">Amazon Robotics**</span>, fueling my passion for personal projects and contributing to open-source endeavors. While I can't give back the time you might spend here being impressed, I'm always open to providing explanations or engaging in thoughtful conversation about my work. Feel free to [reach out](#about-me)!
+📌 Welcome to John Sandoval's GitHub profile! I'm currently harnessing my skills as a **Deployment Engineer at <span style="color: #FF9900;">Amazon Robotics**</span>, fueling my passion for personal projects and contributing to open-source endeavors. While I can't give back the time you might spend here being impressed, I'm always open to providing explanations or engaging in thoughtful conversation about my work. Feel free to [reach out](#about-me)!
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
