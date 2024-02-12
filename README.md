@@ -1,12 +1,11 @@
->> 📌 Welcome to John Sandoval's GitHub profile! While I can't give back the time you might spend here being impressed, I'm always open to providing explanations or engaging in thoughtful conversation about my work. Feel free to [reach out](#about-me)
+>> 📌 Welcome to John Sandoval's GitHub profile! I'm currently harnessing my skills as a **Deployment Engineer at <span style="color: #FF9900;">Amazon Robotics**</span>, fueling my passion for personal projects and contributing to open-source endeavors. While I can't give back the time you might spend here being impressed, I'm always open to providing explanations or engaging in thoughtful conversation about my work. Feel free to [reach out](#about-me)!
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <div align="center">
 
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp; So you made it... <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp;
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp; So, you made it... <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp;
 
-<em><span>Currently, I am working as a Deployment Engineer for <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Amazon_Robotics_logo.svg" width="100" style="position: relative; top: 8px; margin-left: 2px;"></span></em>
 
 </div>
 
