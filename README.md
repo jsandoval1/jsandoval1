@@ -1,9 +1,13 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+>> 📌 Welcome to John Sandoval's GitHub profile! While I can't give back the time you might spend here being impressed, I'm always open to providing explanations or engaging in thoughtful conversation about my work. Feel free to [reach out](#about-me)
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <div align="center">
 
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50">&nbsp; Welcome to John! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50">&nbsp;
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp; So you made it... <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp;
+
+<em><span>Currently, I am working as a Deployment Engineer for <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Amazon_Robotics_logo.svg" width="100" style="position: relative; top: 8px; margin-left: 2px;"></span></em>
+
 </div>
 
 ```javascript
@@ -19,51 +23,94 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 ### 🚀 Languages I use
 
-![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div style="text-align: center;">
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
 
 ### 🎨 Client-Side
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div style="text-align: center;">
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+</div>
+
 ### 🏗️ Server-Side
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<div style="text-align: center;">
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Java Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
 
 ### 🗄️ Databases
 
+<div style="text-align: center;">
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=gold)
 
-### ☁️ AWS Services
-
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS%20RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</div>
 
 ### 🧰 Tools
 
+<div style="text-align: center;">
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![API](https://img.shields.io/badge/API-000000?style=for-the-badge&logo=api&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=ssh&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
+
+### 🛠️ Infrastructure and Operations:
+
+<div style="text-align: center;">
+
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</div>
+
+### 💻 Editors and Terminals:
+
+<div style="text-align: center;">
+
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+</div>
+
 
 
 ---
 
 <div align="center" style="margin-top: 20px;">
 
-### About Me
+## About Me
+
 **Background:** With a background in logistics management, I bring a unique perspective to the tech industry. My experience in logistics has instilled in me a deep appreciation for efficiency and security, principles I carry into my work as a software engineer. I'm currently leveraging these skills in my role as a Deployment Engineer at Amazon Robotics, where I'm part of a team that's innovating in the field of automated systems.
 
 **Continuous Learning:** In addition to my professional experience, I'm committed to continuous learning and personal growth. I regularly engage in online courses, coding challenges, and am looking to be more involved in open-source projects to stay updated with the latest industry trends and best practices.
@@ -72,8 +119,9 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 **Work-Life Balance:** When I'm not coding, you can find me exploring the outdoors, experimenting with new recipes, or hitting the gym for a good workout. I believe that a balanced life fuels creativity and innovation.
 
-**Let's Connect:** Feel free to reach out if you have any questions, want to discuss a project, or simply want to say hi. I'm always open to new opportunities and connections!
-<div style="display: flex; justify-content: center; align-items: center;">
+### <a id="lets-connect"></a>Let's Connect! 
+Feel free to reach out if you have any questions, want to discuss a project, or simply want to say hello. I'm always open to new opportunities and connections!
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 <a href="https://www.linkedin.com/in/1john-sandoval/">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
 </a>
@@ -94,7 +142,7 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 <div align="center" style="margin-top: 20px;">
 
-### 🧪 Experiments from My Coding Lab
+## 🧪 Experiments from My Coding Lab
 
 <a href="https://github.com/jsandoval1/LetsDoItApp">
     <img src="assets/LetsDoItCard.png" width="500">
@@ -117,7 +165,7 @@ You can [visit the live site](http://nightflix-app.com/) or [view the repository
 ---
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="475">&nbsp;
 </div>
 
 **Stay tuned, more projects are under construction and will be added soon!**
@@ -129,7 +177,7 @@ You can [visit the live site](http://nightflix-app.com/) or [view the repository
 
 <div align="center">
 
-### 📊 My Coding Journey by the Numbers
+## 📊 My Coding Journey by the Numbers
 
 </div>
 
@@ -158,6 +206,7 @@ Even though I am still young in my development journey, I have found a passion a
 
 **🔥 Check out my pinned repositories below! 🔥** They showcase my most recent work and the projects I'm most proud of. **Dive in, explore, and don't hesitate to share your thoughts!**
 
+> Note: If you're viewing this on a mobile device, you might need to tap on 'View all repositories' to see the pinned ones.
 </div>
 
 <!-- *Alternate gifs to swap out when wanted -->
@@ -224,3 +273,5 @@ WhatsApp:
 
 Tiktok:
 <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="100"> -->
+
+<!-- * Shield Badges -->
