@@ -6,21 +6,6 @@
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50">&nbsp; Welcome to John! <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50">&nbsp;
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-<a href="https://www.linkedin.com/in/1john-sandoval/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
-</a>
-<a href="https://www.discordapp.com/users/767229812921204777">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50">
-</a>
-<a href="https://www.github.com/jsandoval1">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40">
-</a>
-<a href="mailto:jcsandoval978@gmail.com">
-    <img src="https://media.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif" width="40">
-</a>
-</div>
-
 ```javascript
 // Welcome to my profile! Here's a 
 // random greeting function to get you started.
@@ -88,6 +73,20 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 **Work-Life Balance:** When I'm not coding, you can find me exploring the outdoors, experimenting with new recipes, or hitting the gym for a good workout. I believe that a balanced life fuels creativity and innovation.
 
 **Let's Connect:** Feel free to reach out if you have any questions, want to discuss a project, or simply want to say hi. I'm always open to new opportunities and connections!
+<div style="display: flex; justify-content: center; align-items: center;">
+<a href="https://www.linkedin.com/in/1john-sandoval/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
+</a>
+<a href="https://www.discordapp.com/users/767229812921204777">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50">
+</a>
+<a href="https://www.github.com/jsandoval1">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40">
+</a>
+<a href="mailto:jcsandoval978@gmail.com">
+    <img src="https://media.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif" width="40">
+</a>
+</div>
 </div>
 
 
