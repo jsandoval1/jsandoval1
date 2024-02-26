@@ -208,6 +208,9 @@ Even though I am still young in my development journey, I have found a passion a
 > Note: If you're viewing this on a mobile device, you might need to tap on 'View all repositories' to see the pinned ones.
 </div>
 
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
 <!-- *Alternate gifs to swap out when wanted -->
 <!--
 Cartoon hacker:
