@@ -1,4 +1,4 @@
-> 📌 Welcome to John Sandoval's GitHub profile! I'm currently harnessing my skills as a **Deployment Engineer at <span style="color: #FF9900;">Amazon Robotics**</span>, fueling my passion for personal projects and contributing to open-source endeavors. While I can't give back the time you might spend here being impressed, I'm always open to providing explanations or engaging in thoughtful conversation about my work. Feel free to [reach out](#about-me)!
+> 📌 Welcome to John Sandoval's GitHub profile! While I have been honing my skills as a **Deployment Engineer at Amazon Robotics**, I am now shifting my focus back to my primary passion: software. I'm dedicating my time to personal projects and contributing to open-source endeavors. While I can't give back the time you might spend here being impressed, I'm always open to providing explanations or engaging in thoughtful conversation about my work. Feel free to [reach out](#about-me)!
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
@@ -8,17 +8,6 @@
 
 
 </div>
-
-```javascript
-// Welcome to my profile! Here's a 
-// random greeting function to get you started.
-const greetings = [
-    "Hello!",
-    "Hey!",
-    "Welcome!"
-];
-console.log(greetings[Math.floor(Math.random() * greetings.length)]);
-```
 
 ### 🚀 Languages I use
 
@@ -102,38 +91,15 @@ console.log(greetings[Math.floor(Math.random() * greetings.length)]);
 
 </div>
 
+### 🧠 What's Next
 
+<div style="text-align: center;">
 
----
+![Open Source](https://img.shields.io/badge/Open%20Source-00B4F0?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<div align="center" style="margin-top: 20px;">
-
-## About Me
-
-**Background:** With a background in logistics management, I bring a unique perspective to the tech industry. My experience in logistics has instilled in me a deep appreciation for efficiency and security, principles I carry into my work as a software engineer. I'm currently leveraging these skills in my role as a Deployment Engineer at Amazon Robotics, where I'm part of a team that's innovating in the field of automated systems.
-
-**Continuous Learning:** In addition to my professional experience, I'm committed to continuous learning and personal growth. I regularly engage in online courses, coding challenges, and am looking to be more involved in open-source projects to stay updated with the latest industry trends and best practices.
-
-**Community Involvement:** I believe in the power of community and collaboration. I'm an active participant in various tech forums and coding bootcamps, where I not only learn from others but also share my knowledge and experiences.
-
-**Work-Life Balance:** When I'm not coding, you can find me exploring the outdoors, experimenting with new recipes, or hitting the gym for a good workout. I believe that a balanced life fuels creativity and innovation.
-
-### <a id="lets-connect"></a>Let's Connect! 
-Feel free to reach out if you have any questions, want to discuss a project, or simply want to say hello. I'm always open to new opportunities and connections!
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-<a href="https://www.linkedin.com/in/1john-sandoval/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
-</a>
-<a href="https://www.discordapp.com/users/767229812921204777">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50">
-</a>
-<a href="https://www.github.com/jsandoval1">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40">
-</a>
-<a href="mailto:jcsandoval978@gmail.com">
-    <img src="https://media.tenor.com/9_X3DEtd-xoAAAAi/gmail.gif" width="40">
-</a>
-</div>
 </div>
 
 
