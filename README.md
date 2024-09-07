@@ -1,17 +1,17 @@
-> 📌 Welcome to John Sandoval's GitHub profile! While I have been honing my skills as a **Deployment Engineer at Amazon Robotics**, I am now shifting my focus back to my primary passion: software. I'm dedicating my time to personal projects and contributing to open-source endeavors. While I can't give back the time you might spend here being impressed, I'm always open to providing explanations or engaging in thoughtful conversation about my work. Feel free to [reach out](#about-me)!
+> 📌 Welcome to John Sandoval's GitHub profile! While I was honing my skills as a **Deployment Engineer at Amazon Robotics**, my focus on personal projects slowed down. However, I am now shifting my focus back to my primary passion: software development. I'm dedicating my time to personal projects and contributing to open-source endeavors. Feel free to [reach out](#about-me)!
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<div align="center">
-
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp; So, you made it... <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35">&nbsp;
 
 
-</div>
 
+
+
+
+<!-- My tools and skills -->
 ### 🚀 Languages I use
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,7 +24,7 @@
 
 ### 🎨 Client-Side
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -34,7 +34,7 @@
 
 ### 🏗️ Server-Side
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Java Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -46,7 +46,7 @@
 
 ### 🗄️ Databases
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -57,7 +57,7 @@
 
 ### 🧰 Tools
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -68,7 +68,7 @@
 
 ### 🛠️ Infrastructure and Operations:
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
@@ -82,7 +82,7 @@
 
 ### 💻 Editors and Terminals:
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -93,7 +93,7 @@
 
 ### 🧠 What's Next
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-00B4F0?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -105,6 +105,13 @@
 
 ---
 
+
+
+
+
+
+
+<!-- My projects -->
 <div align="center" style="margin-top: 20px;">
 
 ## 🧪 Experiments from My Coding Lab
@@ -142,12 +149,14 @@ You can [visit the live site](http://nightflix-app.com/) or [view the repository
 
 <div align="center">
 
-## 📊 My Coding Journey by the Numbers
+## 📊 My Coding Journey
 
 </div>
 
-#### Languages in My Toolbox
 
+
+<!-- Languages I've Used -->
+#### Languages I've Used...
 
 ##### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="30"> Java
 I have used Java extensively in my backend development work, particularly with Spring Boot.
@@ -158,24 +167,38 @@ I have experience in both frontend and backend development using JavaScript, inc
 ##### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"> Python
 I have used Python for scripting, data analysis, and web development with Django and Flask.
 
-##### About My GitHub Stats
 
-Even though I am still young in my development journey, I have found a passion and joy in coding. I code at least 4 days a week, finding it not just a task, but an exciting adventure. I plan on continuing to grow my skills and knowledge in my free time. I am eager to break into the tech world and contribute my enthusiasm and dedication to this field.
 
+
+<!-- Stats -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsandoval1&theme=vue-dark&hide_border=true" alt="John's GitHub Streak" width="400" height="200" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsandoval1&theme=tokyonight&layout=compact" alt="John's Top Languages" width="400" height="200" />
 </div>
+
+
+
 
 <div align="center">
 
 **🔥 Check out my pinned repositories below! 🔥** They showcase my most recent work and the projects I'm most proud of. **Dive in, explore, and don't hesitate to share your thoughts!**
 
 > Note: If you're viewing this on a mobile device, you might need to tap on 'View all repositories' to see the pinned ones.
+
 </div>
+
+
+
 
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+
+
+
+
+
+
 
 <!-- *Alternate gifs to swap out when wanted -->
 <!--
