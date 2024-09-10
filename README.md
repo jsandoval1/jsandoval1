@@ -1,10 +1,20 @@
-> 📌 Welcome to John Sandoval's GitHub profile! While I was honing my skills as a **Deployment Engineer at Amazon Robotics**, my focus on personal projects slowed down. However, I am now shifting my focus back to my primary passion: software development. I'm dedicating my time to personal projects and contributing to open-source endeavors. Feel free to [reach out](#about-me)!
+> 📌 Welcome to John Sandoval's GitHub profile! While I was honing my skills as a **Deployment Engineer at Amazon Robotics**, my focus on personal projects slowed down. However, I am now shifting my focus back to my primary passion: software development. I'm dedicating my time to personal projects and contributing to open-source endeavors. Feel free to 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 
 
+<!-- Languages I've Used -->
+#### Languages I've Used...
 
+##### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="30"> Java
+I have used Java extensively in my backend development work, particularly with Spring Boot.
+
+##### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"> JavaScript
+I have experience in both frontend and backend development using JavaScript, including Node.js and React.
+
+##### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"> Python
+I have used Python for scripting, data analysis, and web development with Django and Flask.
 
 
 
@@ -147,34 +157,8 @@ You can [visit the live site](http://nightflix-app.com/) or [view the repository
 
 ---
 
-<div align="center">
-
-## 📊 My Coding Journey
-
-</div>
-
-
-
-<!-- Languages I've Used -->
-#### Languages I've Used...
-
-##### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="30"> Java
-I have used Java extensively in my backend development work, particularly with Spring Boot.
-
-##### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"> JavaScript
-I have experience in both frontend and backend development using JavaScript, including Node.js and React.
-
-##### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"> Python
-I have used Python for scripting, data analysis, and web development with Django and Flask.
-
-
-
-
-<!-- Stats -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsandoval1&theme=vue-dark&hide_border=true" alt="John's GitHub Streak" width="400" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsandoval1&theme=tokyonight&layout=compact" alt="John's Top Languages" width="400" height="200" />
-</div>
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 
 
@@ -186,14 +170,6 @@ I have used Python for scripting, data analysis, and web development with Django
 > Note: If you're viewing this on a mobile device, you might need to tap on 'View all repositories' to see the pinned ones.
 
 </div>
-
-
-
-
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-
 
 
 
