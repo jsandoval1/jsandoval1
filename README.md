@@ -8,10 +8,10 @@
 
 I am currently working at Lawrence Public Schools, a school district with over 18,000 active users. My experience has been on full-stack development with an emphasis on backend development and cloud services. Recently, my work has involved developing Plug-ins for the PowerSchool SIS, building integrations with other systems, and SQL programming and database management.
 
-### Work Experience Timeline
 
 <div align="center" style="margin-top: 20px;">
 
+### Work Experience Timeline
 <table>
   <tr>
     <td align="center" width="300">
