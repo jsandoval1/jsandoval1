@@ -1,5 +1,3 @@
-> 📌 Welcome to my GitHub! I am currently working on building and maintaining systems for Lawrence Public Schools, a school district with over 18,000 active users. While my focus has shifted to other projects, I still contribute to LPS and occasionally work on personal projects.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-user-contribution.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/github-user-contribution.svg" />
@@ -8,9 +6,7 @@
 
 ## About Me
 
-I am currently working at Lawrence Public Schools, where I focus on full-stack development with an emphasis on backend development and cloud services. Recently, my work has involved developing Plug-ins for the PowerSchool SIS, building integrations with other systems, and SQL programming and database management.
-
-### Work Experience Timeline
+I am currently working at Lawrence Public Schools, a school district with over 18,000 active users. My experience has been on full-stack development with an emphasis on backend development and cloud services. Recently, my work has involved developing Plug-ins for the PowerSchool SIS, building integrations with other systems, and SQL programming and database management.
 
 ### Work Experience Timeline
 
@@ -95,11 +91,6 @@ I am currently working at Lawrence Public Schools, where I focus on full-stack d
     </td>
   </tr>
 </table>
-
-<div align="center">
-    <!-- <img src="assets/milky.gif" alt="milky" width="600"> -->
-    <p style="font-size: 3em;">Peace Out! ✌️</p>
-</div>
 
 <!-- Snake Gif generator -->
 <!--https://github.com/Platane/snk?tab=readme-ov-file-->
