@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-user-contribution.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-user-contribution.svg" />
-  <img alt="github-snake" src="assets/github-user-contribution.svg" />
-</picture>
 
 ## About Me
 
@@ -52,6 +47,12 @@ I am currently working at Lawrence Public Schools, a school district with over 1
     </td>
   </tr>
 </table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-user-contribution.svg" />
+  <img alt="github-snake" src="assets/github-user-contribution.svg" />
+</picture>
 
 </div>
 
