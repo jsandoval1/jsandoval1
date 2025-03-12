@@ -8,31 +8,47 @@
 
 I am currently working at Lawrence Public Schools, a school district with over 18,000 active users. My experience has been on full-stack development with an emphasis on backend development and cloud services. Recently, my work has involved developing Plug-ins for the PowerSchool SIS, building integrations with other systems, and SQL programming and database management.
 
-
 <div align="center" style="margin-top: 20px;">
 
 ### Work Experience Timeline
+
 <table>
   <tr>
     <td align="center" width="300">
-      <img src="assets/Amazon.png" alt="Amazon Robotics" width="300">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="24" height="24" alt="Ubuntu" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="24" height="24" alt="Apache" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="24" height="24" alt="Java" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24" height="24" alt="Python" />
-      </div>
+      <img src="assets/Amazon.png" alt="Amazon Robotics" width="300" height="170">
       <p>Amazon Robotics (Jan 2024 - Jun 2024)</p>
+      <div align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=ubuntu" alt="My Skills" width="24" height="24">
+        </a>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=java" alt="My Skills" width="24" height="24">
+        </a>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nginx" alt="My Skills" width="24" height="24">
+        </a>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python" alt="My Skills" width="24" height="24">
+        </a>
+      </div>
     </td>
     <td align="center" width="300">
-      <img src="assets/LPS.png" alt="Lawrence Public Schools" width="300">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24" height="24" alt="HTML" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="24" height="24" alt="SQL" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24" height="24" alt="JavaScript" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="24" height="24" alt="jQuery" />
-      </div>
+      <img src="assets/LPS.png" alt="Lawrence Public Schools" width="300" height="170">
       <p>Lawrence Public Schools (Oct 2024 - Present)</p>
+      <div align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html" alt="My Skills" width="24" height="24">
+        </a>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mysql" alt="My Skills" width="24" height="24">
+        </a>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=javascript" alt="My Skills" width="24" height="24">
+        </a>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=jquery" alt="My Skills" width="24" height="24">
+        </a>
+      </div>
     </td>
   </tr>
 </table>
