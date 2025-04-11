@@ -51,7 +51,7 @@ I am currently working at Lawrence Public Schools, a school district with over 1
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-user-contribution.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/github-user-contribution.svg" />
-  <img alt="github-snake" src="assets/github-user-contribution.svg" />
+  <img alt="github-snake" src="assets/github-user-contribution.svg" >
 </picture>
 
 </div>
@@ -103,7 +103,7 @@ I am currently working at Lawrence Public Schools, a school district with over 1
       <a href="https://github.com/jsandoval1/LetsDoItApp">
         <img src="assets/LetsDoItCard.png" width="300" alt="LetsDoItApp">
       </a>
-      <p>A social platform for task management, built with Spring Boot, AWS RDS, and deployed on AWS.</p>
+      <p>A social platform for task management, built with Spring, AWS RDS, and deployed on AWS.</p>
       <a href="https://github.com/jsandoval1/LetsDoItApp">View the repository on GitHub</a>
     </td>
   </tr>
@@ -111,3 +111,4 @@ I am currently working at Lawrence Public Schools, a school district with over 1
 
 <!-- Snake Gif generator -->
 <!--https://github.com/Platane/snk?tab=readme-ov-file-->
+
