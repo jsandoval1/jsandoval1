@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-user-contribution.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-user-contribution.svg" />
+  <img alt="github-snake" src="assets/github-user-contribution.svg" style="max-width: 100%; height: auto; border-radius: 8px;">
+</picture>
 
 ## About Me
 
@@ -48,11 +53,6 @@ I am currently working at Lawrence Public Schools, a school district with over 1
   </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-user-contribution.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-user-contribution.svg" />
-  <img alt="github-snake" src="assets/github-user-contribution.svg" >
-</picture>
 
 </div>
 
@@ -60,7 +60,7 @@ I am currently working at Lawrence Public Schools, a school district with over 1
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
@@ -69,7 +69,16 @@ I am currently working at Lawrence Public Schools, a school district with over 1
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+    <td>
+      I have extensive experience with SQL for database management, data analysis, and building integrations between systems.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
       <br>Java
     </td>
@@ -78,7 +87,7 @@ I am currently working at Lawrence Public Schools, a school district with over 1
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
