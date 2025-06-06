@@ -15,7 +15,7 @@ I am currently working at Lawrence Public Schools, a school district with over 1
 <table>
   <tr>
     <td align="center" width="300">
-      <img src="assets/Amazon.png" alt="Amazon Robotics" width="300" height="170">
+      <img src="assets/Amazon.png" alt="Amazon Robotics" width="300" height="170" style="filter: brightness(1.1);">
       <p>Amazon Robotics (Jan 2024 - Jun 2024)</p>
       <div align="center">
         <a href="https://skillicons.dev">
@@ -33,17 +33,17 @@ I am currently working at Lawrence Public Schools, a school district with over 1
       </div>
     </td>
     <td align="center" width="300">
-      <img src="assets/LPS.png" alt="Lawrence Public Schools" width="300" height="170">
+      <img src="assets/LPS.png" alt="Lawrence Public Schools" width="300" height="170" style="object-fit: cover; object-position: center; aspect-ratio: 16/9; width: 320px;">
       <p>Lawrence Public Schools (Oct 2024 - Present)</p>
       <div align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html" alt="My Skills" width="24" height="24">
+          <img src="https://skillicons.dev/icons?i=javascript" alt="My Skills" width="24" height="24">
         </a>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mysql" alt="My Skills" width="24" height="24">
         </a>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=javascript" alt="My Skills" width="24" height="24">
+          <img src="https://skillicons.dev/icons?i=html" alt="My Skills" width="24" height="24">
         </a>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=jquery" alt="My Skills" width="24" height="24">
@@ -65,7 +65,7 @@ I am currently working at Lawrence Public Schools, a school district with over 1
       <br>JavaScript
     </td>
     <td>
-      I have experience in both frontend and backend development using JavaScript, including Node.js and React.
+      Develop frontend and backend applications using JavaScript, including Node.js and React.
     </td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ I am currently working at Lawrence Public Schools, a school district with over 1
       <br>SQL
     </td>
     <td>
-      I have extensive experience with SQL for database management, data analysis, and building integrations between systems.
+      Manage databases, analyze data, and build integrations between systems using SQL.
     </td>
   </tr>
   <tr>
@@ -83,7 +83,7 @@ I am currently working at Lawrence Public Schools, a school district with over 1
       <br>Java
     </td>
     <td>
-      I have used Java extensively in my backend development work, particularly with Spring Boot.
+      Build backend services and APIs with Java, particularly using Spring Boot.
     </td>
   </tr>
   <tr>
@@ -92,7 +92,7 @@ I am currently working at Lawrence Public Schools, a school district with over 1
       <br>Python
     </td>
     <td>
-      I have used Python for scripting, data analysis, and web development with Django and Flask.
+      Script, analyze data, and develop web applications with Python using Django and Flask.
     </td>
   </tr>
 </table>
@@ -114,6 +114,11 @@ I am currently working at Lawrence Public Schools, a school district with over 1
       </a>
       <p>A social platform for task management, built with Spring, AWS RDS, and deployed on AWS.</p>
       <a href="https://github.com/jsandoval1/LetsDoItApp">View the repository on GitHub</a>
+    </td>
+    <td align="center" width="300" style="vertical-align: top; height: 400px;">
+      <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="300" alt="More projects coming soon!">
+      </a>
+      <p style="margin-top: 20px;"><strong>More coming soon...</strong></p>
     </td>
   </tr>
 </table>
